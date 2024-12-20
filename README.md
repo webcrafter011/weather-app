@@ -26,7 +26,7 @@ A modern weather application built with Django that displays weather information
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone git@github.com:webcrafter011/weather-app.git
 cd weather-detection
 ```
 
