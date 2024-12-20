@@ -2,7 +2,7 @@
 
 A modern weather application built with Django that displays weather information and city images using OpenWeather API and Pexels API.
 
-![Weather Dashboard Screenshot](screenshot.png)
+![Weather Dashboard Screenshot](Screenshot2024-12-20211519.png)
 
 ## Features
 
